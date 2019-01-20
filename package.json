@@ -1,0 +1,22 @@
+{
+  "name": "note-taking-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhayasmin03/simple-note-app-with-ajax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhayasmin03/simple-note-app-with-ajax/issues"
+  },
+  "homepage": "https://github.com/farhayasmin03/simple-note-app-with-ajax#readme",
+  "dependencies": {
+    "ejs": "^2.6.1"
+  }
+}
